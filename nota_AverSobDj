@@ -1,0 +1,43 @@
+<!---  nota  a ver sobre django  no git haub -- > 
+PS C:\Users\lauli\Documents\ED_GustavoG_HTML_CSS\pythonado_Inicial> c
+c : O termo 'c' não é reconhecido como nome de cmdlet, função, arquivo de script ou programa operável. Verifique a 
+grafia do nome ou, se um caminho tiver sido incluído, veja se o caminho está correto e tente novamente.
+No linha:1 caractere:1
++ c
++ ~
+    + CategoryInfo          : ObjectNotFound: (c:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS C:\Users\lauli\Documents\ED_GustavoG_HTML_CSS\pythonado_Inicial> C:   
+PS C:\Users\lauli\Documents\ED_GustavoG_HTML_CSS\pythonado_Inicial> C:venv\scripts\activate.ps1
+(venv) PS C:\Users\lauli\Documents\ED_GustavoG_HTML_CSS\pythonado_Inicial> ls
+
+
+    Diretório: C:\Users\lauli\Documents\ED_GustavoG_HTML_CSS\pythonado_Inicial
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04/06/2023     16:07                venv
+-a----        04/06/2023     16:04             66 .gitattributes
+-a----        04/06/2023     16:04           1090 LICENSE
+-a----        04/06/2023     16:04             22 README.md
+
+
+(venv) PS C:\Users\lauli\Documents\ED_GustavoG_HTML_CSS\pythonado_Inicial>
+
+
+
+ ##############################################
+ CRIAR PROJETO : COMANDOS.
+ 1 - Ctrl + c  ^c 
+
+ 2 - Django-admin startproject django_baseco .  / COM PONTO NO FINAL 
+ ------------------------------------------ obs : nome projeto  1 espaço
+ 
+
+
+ #######################################
+
+
+(venv) PS C:\Users\lauli\Documents\ED_GustavoG_HTML_CSS\pythonado_Inicial> 
