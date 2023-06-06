@@ -29,11 +29,38 @@ d-----        04/06/2023     16:07                venv
 
 
  ##############################################
- CRIAR PROJETO : COMANDOS.
+ CRIAR PROJETO : COMANDO.
  1 - Ctrl + c  ^c 
 
  2 - Django-admin startproject django_baseco .  / COM PONTO NO FINAL 
  ------------------------------------------ obs : nome projeto  1 espaço
+
+ CRIAR app no projeto : COMANDO.
+ 1 - python manage.py startapp produto  ---> criar app produto*  
+ 2 - Apos ciar o app vai no arquivo: settings.py > INSTALLED_APPS = E COLOCAR nomes do app ciar ( é um lista de app ...)  
+ #  Exemplo 
+
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'produto'
+]
+ ------------------ tempo  de  teste  ----------------------------
+
+   
+ 1 - Verifique =>  6:33  > tela incial django
+ 2 - Verifique => 19:00  > tela ('Olá tubo bem ? ')* 
+
+
+
+
+
+
+
  
 
 
